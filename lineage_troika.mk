@@ -29,7 +29,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_DEVICE := troika
 PRODUCT_NAME := lineage_troika
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := one action
+PRODUCT_MODEL := motorola one action
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
